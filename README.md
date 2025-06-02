@@ -69,7 +69,8 @@ O cliente irá exibir:
 
 ## 🧑‍💻 Autor
 
-- [Davi Allencar](https://github.com/daviallencar)
+- [Davi Alencar](https://github.com/daviallencar)
+- [Ana Laura ](https://github.com/laurageleilate)
 
 ---
 
